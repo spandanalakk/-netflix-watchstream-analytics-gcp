@@ -1,0 +1,12 @@
+<svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg" style="background:#fff;border-radius:12px;font-family:Inter,Arial,sans-serif">
+<defs><marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#9ca3af"/></marker></defs>
+<text x="500" y="28" text-anchor="middle" font-size="22" font-weight="700" fill="#111827">Vertex AI AutoML Workflow</text>
+<rect x="80" y="110" width="240" height="90" rx="12" fill="#e0f2fe" stroke="#60a5fa"/>
+<text x="200" y="140" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">BigQuery Gold</text>
+<rect x="380" y="110" width="240" height="90" rx="12" fill="#dcfce7" stroke="#22c55e"/>
+<text x="500" y="140" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">Vertex AI AutoML</text>
+<rect x="680" y="110" width="240" height="90" rx="12" fill="#fde68a" stroke="#f59e0b"/>
+<text x="800" y="140" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">Predictions</text>
+<line x1="320" y1="155" x2="380" y2="155" stroke="#9ca3af" stroke-width="2.5" marker-end="url(#arr)"/>
+<line x1="620" y1="155" x2="680" y2="155" stroke="#9ca3af" stroke-width="2.5" marker-end="url(#arr)"/>
+</svg>
